@@ -1,2 +1,2 @@
 # russianfunny
-Converts text into funny Russian text.
+Converts text into funny Russian text
